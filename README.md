@@ -24,4 +24,4 @@ SVM and Random Forest are implemented in WEKA using filtered classifier. A tutor
 
 See the file "User's Manual.pdf" for details.
 
-You can read this awesome tutorial regarding Keras Model for Neural Network: (https://mc.ai/using-word-embeddings-and-recurrent-neural-networks-to-predict-rating-scores-from-text/)
+You should read this awesome tutorial regarding Keras Model for Neural Network: (https://mc.ai/using-word-embeddings-and-recurrent-neural-networks-to-predict-rating-scores-from-text/)
