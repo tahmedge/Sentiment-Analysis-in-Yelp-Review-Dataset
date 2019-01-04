@@ -20,6 +20,6 @@ All the Deep Learning Algorithms are implemented in Python using Keras Library.
 
 Multinomial Naive Bayes is implemented using Scikit-learn library in Python.  
 
-SVM and Random Forest are implemented in WEKA using filtered classifier. A video tutorial is attached regarding how to use the filtered classifier in WEKA to read text data. 
+SVM and Random Forest are implemented in WEKA using filtered classifier. A video tutorial can be found [here] (https://www.youtube.com/watch?v=PJ-vSXHoXYM) regarding how to use the filtered classifier in WEKA to read text data. 
 
 See the file "User's Manual.pdf" for details.
