@@ -14,12 +14,14 @@ We have two types of datasets:<br />
     ii. .arff file for Weka (Separate file for binary and ternary classifications)<br />
 </pre>
 
-(The file size of the original *.json* file is 4.7 GB. The .json file can be downloaded from here: https://www.yelp.com/dataset)  
+The file size of the original *.json* file is 4.7 GB. The .json file can be downloaded from here: (https://www.yelp.com/dataset)  
 
 All the Deep Learning Algorithms are implemented in Python using Keras Library.  
 
 Multinomial Naive Bayes is implemented using Scikit-learn library in Python.  
 
-SVM and Random Forest are implemented in WEKA using filtered classifier. A tutorial video regarding how to use the filtered classifier in WEKA can be found here: https://www.youtube.com/watch?v=PJ-vSXHoXYM. 
+SVM and Random Forest are implemented in WEKA using filtered classifier. A tutorial video regarding how to use the filtered classifier in WEKA can be found here: (https://www.youtube.com/watch?v=PJ-vSXHoXYM). 
 
 See the file "User's Manual.pdf" for details.
+
+You can read this awesome tutorial regarding Keras Model for Neural Network: (https://mc.ai/using-word-embeddings-and-recurrent-neural-networks-to-predict-rating-scores-from-text/)
