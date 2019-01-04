@@ -9,8 +9,10 @@ We selected 100000 reviews randomly from the original review dataset of Yelp. Ou
 Our selected pre-processed datasets are in *.txt* format and can be found in the *"datasets.zip"* folder. 
 
 We have two types of datasets:<br />
- __ i. .txt file for Python (Separate file for binary and ternary classifications)<br />
- __ ii. .arff file for Weka (Separate file for binary and ternary classifications)<br />
+<pre>
+    i. .txt file for Python (Separate file for binary and ternary classifications)<br />
+    ii. .arff file for Weka (Separate file for binary and ternary classifications)<br />
+<pre>
 
 (The file size of the original *.json* file is 4.7 GB. The .json file can be downloaded from here: https://www.yelp.com/dataset)  
 
